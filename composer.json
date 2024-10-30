@@ -19,6 +19,7 @@
         "razorpay/razorpay": "2.*",
         "spatie/laravel-permission": "^6.9",
         "spatie/laravel-translation-loader": "^2.8",
+        "srmklive/paypal": "*",
         "stripe/stripe-php": "^12.0",
         "symfony/translation": "^6.4",
         "yajra/laravel-datatables": "^10.1",
